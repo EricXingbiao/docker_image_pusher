@@ -1,2 +1,2 @@
-portainer
+portainer/portainer
 nginx
